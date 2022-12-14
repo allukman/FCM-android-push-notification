@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032422429990",
+    "project_id": "fcm-push-notification-13860",
+    "storage_bucket": "fcm-push-notification-13860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032422429990:android:18c1c0308e5028c5bd5de7",
+        "android_client_info": {
+          "package_name": "com.karsatech.androidpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032422429990-fa7i7ai6plps56b2jo6cnlk6tjhnc78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWirnAN1FSJGK284yS_ZdobGfsK6-JFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032422429990-fa7i7ai6plps56b2jo6cnlk6tjhnc78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
